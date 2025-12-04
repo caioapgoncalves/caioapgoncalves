@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Caio Gonçalves, tenho 20 anos e sou natural do São Paulo. Atualmente, estou cursando Sistemas de Informação na UNIARA. Sou apaixonado por tecnologia e por criar soluções práticas e funcionais. Trabalho principalmente com C#, Java, .NET, SQL.
+Me chamo Caio Gonçalves, tenho 20 anos e sou natural de Araraquara - SP. Atualmente, estou cursando Sistemas de Informação na UNIARA. Sou apaixonado por tecnologia e por criar soluções práticas e funcionais. Trabalho principalmente com C#, Java, .NET, SQL.
 Tenho interesse em backend, modelagem de banco de dados, UX/UI buscando entender um sistema de ponta a ponta da interface ao desempenho.
 
 
