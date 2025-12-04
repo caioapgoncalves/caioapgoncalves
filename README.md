@@ -81,7 +81,7 @@ Tenho interesse em backend, modelagem de banco de dados, UX/UI buscando entender
     title="Unity"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
 />
 
 <img 
